@@ -1,13 +1,32 @@
 <h1 align=center> PoC 🚀 </h1>
 
-PoC is the **student innovation center** of EPITECH, which aims to promote **Innovation and Open Source** through its projects and events. 
+## What is PoC ?
 
-Around 5 main poles:  
+Created in 2017, it's the **student innovation center** of EPITECH, which aims to promote **Innovation and Open Source** through its projects and events. 
 
-|               | 💻 Software | 🧠 AI | 🔑 Security | 🛠️ Hardware | :spider_web: P2P |
+Around 5 main poles:
+- 💻 Software 
+- 🧠 AI 
+- 🔑 Security 
+- 🛠️ Hardware 
+- 🕸️ P2P 
+
+<details>
+    <summary> Head of DPT: </summary>
+
+|               | 💻 Software | 🧠 AI | 🔑 Security | 🛠️ Hardware | 🕸️ P2P |
 |---            |-----------|:---:|--------:| -------: | --: |
 |**Head of DPT**| [<img src="https://github.com/TomChv.png?size=85" width=85><br><sub>Tom CHAUVEAU</sub>](https://github.com/TomChv) | [<img src="https://github.com/Thytu.png?size=85" width=85><br><sub>Valentin DE MATOS</sub>](https://github.com/Thytu)| [<img src="https://github.com/etarc0s.png?size=85" width=85><br><sub>Alexandre GOUASMI</sub>](https://github.com/etarc0s) | [<img src="https://github.com/Cleopha.png?size=85" width=85><br><sub>Coline SEGURET</sub>](https://github.com/Cleopha)  | [<img src="https://github.com/PtitLuca.png?size=85" width=85><br><sub>Luca GEORGES FRANCOIS</sub>](https://github.com/PtitLuca) |
 |**Head of DPT**| [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>Adrien FORT</sub>](https://github.com/adrienfort) | [<img src="https://github.com/Mikatech.png?size=85" width=85><br><sub>Mikaêl VALLENET</sub>](https://github.com/Mikatech)| [<img src="https://github.com/AbdelkarimBENGRINE.png?size=85" width=85><br><sub>Abdelkarim BENGRINE</sub>](https://github.com/AbdelkarimBENGRINE) | [<img src="https://github.com/OnsagerHe.png?size=85" width=85><br><sub>Albert VALENTIN</sub>](https://github.com/OnsagerHe) | |
+
+</details>
+
+## Activity
+
+- At least **4 workshops per week** offered to all. Find us on [our discord](https://discord.com/invite/Yqq2ADGDS7)
+- 5 Innovation's pools each year 
+  - [Intensive week](https://www.youtube.com/watch?v=JuqRGdM7PaM) for EPITECH students. The objective is to give all the keys to start a project in the chosen innovative field.
+- Organizer of hackathon like [Naza Space app 2021](https://www.spaceappschallenge.org/) and [MIT Paris Grand Hack 2019](https://www.hecalumni.fr/event/mit-paris-grand-hack-2019/2019/06/22/5368)
 
 <h2 align=center>
 Follow us here
