@@ -4,15 +4,18 @@
 
 Created in 2017, it's the **student innovation center** of EPITECH, which aims to promote **Innovation and Open Source** through its projects and events. 
 
-Around 5 main poles:
+
+<h2 align=center> <a href="https://github.com/PoCInnovation/.github/blob/master/PROJECT.md"> 🚀 Find here the list of projects finalized by our residents 🚀</a> </h2>
+
+<details>
+    <summary> ⬇️  Click here for know our innovation pole and their manager: ⬇️</summary>
 
 |               | 💻 Software | 🧠 AI | 🔑 Security | 🛠️ Hardware | 🕸️ P2P |
 |---            |-----------|:---:|--------:| -------: | --: |
 |**Head of DPT**| [<img src="https://github.com/TomChv.png?size=85" width=85><br><sub>Tom CHAUVEAU</sub>](https://github.com/TomChv) | [<img src="https://github.com/Thytu.png?size=85" width=85><br><sub>Valentin DE MATOS</sub>](https://github.com/Thytu)| [<img src="https://github.com/etarc0s.png?size=85" width=85><br><sub>Alexandre GOUASMI</sub>](https://github.com/etarc0s) | [<img src="https://github.com/Cleopha.png?size=85" width=85><br><sub>Coline SEGURET</sub>](https://github.com/Cleopha)  | [<img src="https://github.com/PtitLuca.png?size=85" width=85><br><sub>Luca GEORGES FRANCOIS</sub>](https://github.com/PtitLuca) |
 |**Head of DPT**| [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>Adrien FORT</sub>](https://github.com/adrienfort) | [<img src="https://github.com/Mikatech.png?size=85" width=85><br><sub>Mikaêl VALLENET</sub>](https://github.com/Mikatech)| [<img src="https://github.com/AbdelkarimBENGRINE.png?size=85" width=85><br><sub>Abdelkarim BENGRINE</sub>](https://github.com/AbdelkarimBENGRINE) | [<img src="https://github.com/OnsagerHe.png?size=85" width=85><br><sub>Albert VALENTIN</sub>](https://github.com/OnsagerHe) | |
 
-<h2 align=center> <a href="https://github.com/PoCInnovation/.github/blob/master/PROJECT.md"> 🚀 Find here the list of projects finalized by our residents 🚀</a> </h2>
-
+</details>
 
 ## Activity
 
