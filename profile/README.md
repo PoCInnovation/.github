@@ -1,7 +1,5 @@
 <h1 align=center> PoC 🚀 </h1>
 
-## What is PoC ?
-
 Created in 2017, it's the **student innovation center** of EPITECH, which aims to promote **Innovation and Open Source** through its projects and events. 
 
 
