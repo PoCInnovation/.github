@@ -20,7 +20,7 @@ Created in 2017, it's the **student innovation center** of EPITECH, which aims t
 - At least **4 workshops per week** offered to all. Find us on [our discord](https://discord.com/invite/Yqq2ADGDS7)
 - 5 Innovation's pools each year 
   - [Intensive week](https://www.youtube.com/watch?v=JuqRGdM7PaM) for EPITECH students. The objective is to give all the keys to start a project in the chosen innovative field.
-- Organizer of hackathon like [Naza Space app 2021](https://www.spaceappschallenge.org/) and [MIT Paris Grand Hack 2019](https://www.hecalumni.fr/event/mit-paris-grand-hack-2019/2019/06/22/5368)
+- Organizer of hackathon like [Nasa Space app 2021](https://www.spaceappschallenge.org/) and [MIT Paris Grand Hack 2019](https://www.hecalumni.fr/event/mit-paris-grand-hack-2019/2019/06/22/5368)
 
 <h2 align=center>
 Follow us here
