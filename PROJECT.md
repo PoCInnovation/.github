@@ -2,11 +2,13 @@
 
 - [PoC Project](#poc-project)
   - [Department logo:](#department-logo)
+  - [2022](#2022)
+    - [Second wave](#second-wave)
   - [2021](#2021)
     - [First wave](#first-wave)
   - [2020](#2020)
     - [First wave](#first-wave-1)
-    - [Second Wave](#second-wave)
+    - [Second Wave](#second-wave-1)
   - [2019](#2019)
 
 ## Department logo:
@@ -17,6 +19,14 @@
 🛠️: Hardware  
 🕸️: Peer-to-Peer  
 👓: AR/VR  
+
+## 2022
+### Second wave
+
+| Project Name | Description | Department | Manager | Developer | Developer | Developer |
+|------------- |-------------|:----------:|--------:| --------: |-----------|-----------|
+| [DagViz](https://github.com/PoCInnovation/DagViz) | A visualization tool for CUE DAGs. | 💻 | [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>Adrien FORT</sub>](https://github.com/adrienfort) | [<img src="https://github.com/EdenComp.png?size=85" width=85><br><sub>Florian LAUCH</sub>](https://github.com/EdenComp) | [<img src="https://github.com/Doozers.png?size=85" width=85><br><sub>Ismaël FALL</sub>](https://github.com/Doozers) |  |
+| [InterPlanetaryCloud v3](https://github.com/PoCInnovation/InterPlanetaryCloud) | A personal file storage and management system built on top of Aleph. | 💻 | [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>Adrien FORT</sub>](https://github.com/adrienfort) | [<img src="https://github.com/RezaRahemtola.png?size=85" width=85><br><sub>Reza RAHEMTOLA</sub>](https://github.com/RezaRahemtola) | [<img src="https://github.com/TristanMasselot.png?size=85" width=85><br><sub>Tristan MASSELOT</sub>](https://github.com/TristanMasselot) | |
 
 ## 2021
 ### First wave
