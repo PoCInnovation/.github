@@ -3,12 +3,12 @@
 - [PoC Project](#poc-project)
   - [Department logo:](#department-logo)
   - [2022](#2022)
-    - [Second wave](#second-wave)
-  - [2021](#2021)
     - [First wave](#first-wave)
-  - [2020](#2020)
+  - [2021](#2021)
     - [First wave](#first-wave-1)
-    - [Second Wave](#second-wave-1)
+  - [2020](#2020)
+    - [First wave](#first-wave-2)
+    - [Second Wave](#second-wave)
   - [2019](#2019)
 
 ## Department logo:
@@ -21,7 +21,7 @@
 👓: AR/VR  
 
 ## 2022
-### Second wave
+### First wave
 
 | Project Name | Description | Department | Manager | Developer | Developer | Developer |
 |------------- |-------------|:----------:|--------:| --------: |-----------|-----------|
