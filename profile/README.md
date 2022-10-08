@@ -10,7 +10,7 @@ Created in 2017, it's the **student innovation center** of EPITECH, which aims t
 
 |               | 💻 Software | 🧠 AI | 🔑 Security | 🛠️ Hardware | 🕸️ P2P |
 |---            |-----------|:---:|--------:| -------: | --: |
-|**Head of DPT**| [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>Adrien FORT</sub>](https://github.com/adrienfort) | [<img src="https://github.com/Mikatech.png?size=85" width=85><br><sub>Mikaêl VALLENET</sub>](https://github.com/Mikatech)| [<img src="https://github.com/AbdelkarimBENGRINE.png?size=85" width=85><br><sub>Abdelkarim BENGRINE</sub>](https://github.com/AbdelkarimBENGRINE) | [<img src="https://github.com/OnsagerHe.png?size=85" width=85><br><sub>Albert VALENTIN</sub>](https://github.com/OnsagerHe) | [<img src="https://github.com/OnsagerHe.png?size=85" width=85><br><sub>Albert VALENTIN</sub>](https://github.com/OnsagerHe)|
+|**Head of DPT**| [<img src="https://github.com/RezaRahemtola.png?size=85" width=85><br><sub>Reza RAHEMTOLA</sub>](https://github.com/RezaRahemtola) | [<img src="https://github.com/LayBraid.png?size=85" width=85><br><sub>Clément LOEUILLET</sub>](https://github.com/LayBraid)| [<img src="https://github.com/lennyvong.png?size=85" width=85><br><sub>Lenny VONGPHOUTHONE</sub>](https://github.com/lennyvong) | [<img src="https://github.com/OnsagerHe.png?size=85" width=85><br><sub>Albert VALENTIN</sub>](https://github.com/OnsagerHe) | [<img src="https://github.com/Doozers.png?size=85" width=85><br><sub>Ismaël FALL</sub>](https://github.com/Doozers) |
 
 </details>
 
