@@ -8,9 +8,9 @@ Created in 2017, it's the **student innovation center** based at EPITECH, which 
 <details>
     <summary> ⬇️ Click here to discover our innovation pole and their manager: ⬇️</summary>
 
-|               | 💻 Software | 🧠 AI | 🔑 Security | 🛠️ Hardware | 🕸️ P2P |
-|---            |-----------|:---:|--------:| -------: | --: |
-|**Head of DPT**| [<img src="https://github.com/RezaRahemtola.png?size=85" width=85><br><sub>Reza RAHEMTOLA</sub>](https://github.com/RezaRahemtola) | [<img src="https://github.com/LayBraid.png?size=85" width=85><br><sub>Clément LOEUILLET</sub>](https://github.com/LayBraid)| [<img src="https://github.com/lennyvong.png?size=85" width=85><br><sub>Lenny VONGPHOUTHONE</sub>](https://github.com/lennyvong) | [<img src="https://github.com/OnsagerHe.png?size=85" width=85><br><sub>Albert VALENTIN</sub>](https://github.com/OnsagerHe) | [<img src="https://github.com/Doozers.png?size=85" width=85><br><sub>Ismaël FALL</sub>](https://github.com/Doozers) |
+|               | 💻 Software | 🧠 AI | 🔑 Security | 🕸️ P2P |
+|---            |-----------  |:---:  |--------:    |--:     |
+|**Head of DPT**| [<img src="https://github.com/adamdeziri.png?size=85" width=85><br><sub>Adam DEZIRI</sub>](https://github.com/adamdeziri) | [<img src="https://github.com/ManuelR-T.png?size=85" width=85><br><sub>Manuel TOMÉ</sub>](https://github.com/ManuelR-T)| [<img src="https://github.com/thomas-pommier-epi.png?size=85" width=85><br><sub>Thomas POMMIER</sub>](https://github.com/thomas-pommier-epi) | [<img src="https://github.com/LeTamanoir.png?size=85" width=85><br><sub>Martin SALDINGER</sub>](https://github.com/LeTamanoir) |
 
 </details>
 
