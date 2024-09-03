@@ -9,8 +9,8 @@ Created in 2017, it's the **student innovation center** based at EPITECH, which 
     <summary> ⬇️ Click here to discover our innovation pole and their manager: ⬇️</summary>
 
 |               | 💻 Software | 🧠 AI | 🔑 Security | 🕸️ P2P |
-|---            |-----------  |:---:  |--------:    |--:     |
-|**Head of DPT**| [<img src="https://github.com/adamdeziri.png?size=85" width=85><br><sub>Adam DEZIRI</sub>](https://github.com/adamdeziri) | [<img src="https://github.com/ManuelR-T.png?size=85" width=85><br><sub>Manuel TOMÉ</sub>](https://github.com/ManuelR-T)| [<img src="https://github.com/thomas-pommier-epi.png?size=85" width=85><br><sub>Thomas POMMIER</sub>](https://github.com/thomas-pommier-epi) | [<img src="https://github.com/LeTamanoir.png?size=85" width=85><br><sub>Martin SALDINGER</sub>](https://github.com/LeTamanoir) |
+|---            |---  |:---:  |---:    |---:     |
+|**Head of DPT**| [<img src="https://github.com/pierrelissope.png?size=85" width=85><br><sub>Pierre LISSOPE</sub>](https://github.com/pierrelissope) | [<img src="https://github.com/ramosleandre.png?size=85" width=85><br><sub>Léandre RAMOS</sub>](https://github.com/ramosleandre)| [<img src="https://github.com/nl1x.png?size=85" width=85><br><sub>Nathan JEANNOT</sub>](https://github.com/nl1x) | [<img src="https://github.com/Intermarch3.png?size=85" width=85><br><sub>Lucas LECLERC</sub>](https://github.com/Intermarch3) |
 
 </details>
 
